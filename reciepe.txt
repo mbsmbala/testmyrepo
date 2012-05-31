@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+<<<<<<< ours
 Multiple changes... for tseting
 =======
 ubabsh -- update first line
->>>>>>> 4466dee423bf372959669854165f30c1c9c9ac03
+>>>>>>> theirs
 
 updated for testing
 
